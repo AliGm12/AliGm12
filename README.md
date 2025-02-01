@@ -1,9 +1,10 @@
 ### Hi there 👋
-I'm Ali Golmaryami **Someone who likes to learn front end**.
 
-I am also interested in C++ and Python languages. 
+#### My name is Ali Golmaryami, and I'm a frontend developer with a keen passion for web development in any form. I enjoy crafting harmonious, user-first interfaces and have a talent for taking an idea and transforming it into a working, pleasing one.
 
-I’m currently working on JS and TS.
+**I’m currently working on React.Js, TypeScript and Next.Js.**
+
+#### I'm in the process of becoming a TypeScript (TS) and React.js expert at the moment. Staying current with new technology and trends is a must for me, and I'm convinced continuous learning is paramount in a high-tech environment such as in this one.
 <!--
 **AliGm12/AliGm12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
